@@ -1,0 +1,53 @@
+
+{"courses":[
+  {
+    "id": 1,
+    "title": "Introduction to Music Theory",
+    "slug": "introduction-to-music-theory",
+    "description": "Learn the fundamentals of music theory, including scales, intervals, chords, and rhythm. Perfect for beginners!",
+    "price": 49.99,
+    "instructor": "John Doe",
+    "featured": true,
+    "image": "https://example.com/images/music-theory.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Mastering the Guitar: Beginner to Pro",
+    "slug": "mastering-the-guitar",
+    "description": "A comprehensive guide to mastering the guitar, covering techniques, music theory, and performance tips.",
+    "price": 79.99,
+    "instructor": "Jane Smith",
+    "featured": false,
+    "image": "https://example.com/images/guitar-course.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Piano Essentials: From Basics to Performance",
+    "slug": "piano-essentials",
+    "description": "Learn piano from the ground up with a course designed to take you from basic scales to performance pieces.",
+    "price": 59.99,
+    "instructor": "Alice Brown",
+    "featured": true,
+    "image": "https://example.com/images/piano-essentials.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Electronic Music Production",
+    "slug": "electronic-music-production",
+    "description": "Dive into the world of electronic music production, learning tools like Ableton and FL Studio to create your own tracks.",
+    "price": 99.99,
+    "instructor": "Mark Johnson",
+    "featured": false,
+    "image": "https://example.com/images/electronic-music.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Vocal Training: Techniques for Singers",
+    "slug": "vocal-training",
+    "description": "A specialized course for singers, focusing on vocal warm-ups, pitch control, breathing techniques, and performance.",
+    "price": 69.99,
+    "instructor": "Emily Davis",
+    "featured": true,
+    "image": "https://example.com/images/vocal-training.jpg"
+  }
+]}
