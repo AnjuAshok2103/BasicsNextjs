@@ -1,6 +1,5 @@
 import React from "react";
 import { Metadata } from "next";
-import { resolve } from "path";
 
 //dynamic metadata example
 
